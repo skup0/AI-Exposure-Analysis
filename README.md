@@ -1,7 +1,7 @@
 MATH 1130 — AI Exposure & Wage Inequality Analysis (Canada)
 
 OVERVIEW
-This project was completed as part of MATH 1130 and analyzes how wages in Canada have evolved
+This project was completed as part of MATH 1130 group project and analyzes how wages in Canada have evolved
 from 2012 to 2024, with a focus on occupational differences, regional patterns, AI exposure,
 skill gaps, and inequality.
 
